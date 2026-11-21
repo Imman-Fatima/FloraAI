@@ -1,0 +1,6 @@
+daisy
+dandelion
+not_flower
+rose
+sunflower
+tulip
